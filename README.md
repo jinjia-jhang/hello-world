@@ -1,3 +1,2 @@
 # hello-world
-test repository description
-test
+repository description
